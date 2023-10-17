@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>VV-1 - Copy.png</file>
+  </qresource>
+</RCC>
